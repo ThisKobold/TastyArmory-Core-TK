@@ -3,7 +3,7 @@
 	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>TA_KidHood</defName>
 		<label>child's hood</label>
-		<description>A hood</description>
+		<description>A plain hood fitted to protect one's young from the elements.</description>
 		<graphicData>
 			<texPath>Apparel/Clothes/TA_KidHood/TA_KidHood_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
