@@ -4,7 +4,7 @@
 	<ThingDef ParentName="ArmorSmithableBase" Name="TA_LamellarVest" MayRequireAnyOf="al9000.tastysteppe,al9000.highmedieval">
 		<defName>TA_LamellarVestMetal</defName>
 		<label>lamellar vest</label>
-		<description>.</description>
+		<description>A vest fastened with several dozen small plates of metal, arranged to block slashing blows without inhibiting the wearer's movement. Can be worn beneath a cloak or another article of clothing. Not as protective as solid plate, but easier to wear and less costly to manufacture.</description>
 		<graphicData>
 			<texPath>Apparel/Armor/TA_LamellarVest/TA_LamellarVest_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
