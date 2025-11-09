@@ -32,7 +32,7 @@
 	<ThingDef ParentName="TA_ApparelCarryGearBase" MayRequire="CETeam.CombatExtended">
 		<defName>TA_Quiver</defName>
 		<label>quiver belt</label>
-		<description>.</description>
+		<description>A bulky cylinder of hard treated leather made to hold arrows without being destroyed by the sharpened points. It's size prohibits any improvement in firing speed in exchange for a greater storage capacity.</description>
 		<graphicData>
 			<texPath>Apparel/Accessories/TA_QuiverBelt/TA_QuiverBelt_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
