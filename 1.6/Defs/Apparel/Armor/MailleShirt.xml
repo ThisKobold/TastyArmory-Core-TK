@@ -13,7 +13,7 @@
 	<ThingDef ParentName="ArmorSmithableBase" MayRequireAnyOf="al9000.tastysteppe,al9000.fireandsteel,al9000.highmedieval">
 		<defName>TA_MailleShirt</defName>
 		<label>maille shirt</label>
-		<description>long shirt of riveted maille, decent protection, very durable, lot of work to make.</description>
+		<description>A long shirt of riveted maille, held fast by a cord to defend one's body. Offers decent protection in a durable package, though the labor required may dissuade some.</description>
 		<graphicData>
 			<texPath>Apparel/Armor/TA_MailleShirt/TA_MailleShirt_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
