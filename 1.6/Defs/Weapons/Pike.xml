@@ -4,7 +4,7 @@
 	<ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality" MayRequireAnyOf="al9000.fireandsteel,al9000.shiningarmor">
 		<defName>TA_Pike</defName>
 		<label>pike</label>
-		<description>.</description>
+		<description>Ridiculously long wooden pole tipped with a sharp metal point, the pike has been a signature defensive option for millenia. The most famous use case is reaching through the chaos of battle to jab at enemies from behind your front line. This weapon reaches twice as far as other polearms with increased range.</description>
 		<graphicData>
 			<texPath>Weapons/Melee/TA_Pike</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
