@@ -3,7 +3,7 @@
 
 	<ThingDef Name="TA_Cloak_Base" ParentName="ApparelMakeableBase" Abstract="True">
 		<label>cloak</label>
-		<description>.</description>
+		<description>A stylish and simple covering for cold weather. Can be worn without impeding one's movement or sense of freedom.</description>
 		<recipeMaker>
 			<researchPrerequisite>ComplexClothing</researchPrerequisite>
 		</recipeMaker>
