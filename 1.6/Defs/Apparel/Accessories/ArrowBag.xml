@@ -5,7 +5,7 @@
 	<ThingDef ParentName="TA_ApparelCarryGearBase"  MayRequireAnyOf="al9000.highmedieval,al9000.shiningarmor">
 		<defName>TA_ArrowBag</defName>
 		<label>arrow bag</label>
-		<description>.</description>
+		<description>A hard but light leather bag made to hold arrows without being damaged by the points. Simple to make and effective, though superior certainly exist.</description>
 		<graphicData>
 			<texPath>Apparel/Accessories/TA_ArrowBag/TA_ArrowBag_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
