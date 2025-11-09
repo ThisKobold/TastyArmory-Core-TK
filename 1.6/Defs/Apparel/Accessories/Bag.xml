@@ -5,7 +5,7 @@
   <ThingDef ParentName="TA_ApparelCarryGearBase" MayRequire="CETeam.CombatExtended">
     <defName>TA_Bag</defName>
     <label>bag</label>
-    <description>Shoulder sling pouch.</description>
+    <description>A shoulder sling pouch attached to a long strap. Made to carry heavier gear than other options, it lacks the flexibility or bulk that other bags afford.</description>
     <graphicData>
       <texPath>Apparel/Accessories/TA_Bag/TA_Bag_ico</texPath>
       <graphicClass>Graphic_Single</graphicClass>
