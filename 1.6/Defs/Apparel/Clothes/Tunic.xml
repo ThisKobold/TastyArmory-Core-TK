@@ -12,7 +12,7 @@
 	<ThingDef ParentName="ApparelMakeableBase" Name="TA_Tunic_base">
 		<defName>TA_PeasantTunic</defName>
 		<label>tunic</label>
-		<description>.</description>
+		<description>A plain, long shirt with a drawstring collar, typically fastened to the waist with a long cord. Covers up one's lower regions well enough on it's own. A great option for chilly weather or adventuring.</description>
 		<graphicData>
 			<texPath>Apparel/Clothes/TA_Tunic/TA_Tunic_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
