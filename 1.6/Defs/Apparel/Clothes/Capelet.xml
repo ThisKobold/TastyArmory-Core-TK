@@ -3,7 +3,7 @@
 
 	<!--ThingDef Name="TA_Capelet_Base" ParentName="ApparelMakeableBase" Abstract="True">
 		<label>capelet</label>
-		<description>.</description>
+		<description>A simple cape attached to a hood. Good for keeping the rain off your back and your hair dry. The hood can be raised or lowered as desired.</description>
 		<recipeMaker>
 			<researchPrerequisite>ComplexClothing</researchPrerequisite>
 		</recipeMaker>
