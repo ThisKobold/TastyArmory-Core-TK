@@ -4,7 +4,7 @@
 	<ThingDef ParentName="TA_ApparelCarryGearBase"  MayRequireAnyOf="al9000.highmedieval,al9000.shiningarmor">
 		<defName>TA_CrossbowmanBelt</defName>
 		<label>crossbowman's belt</label>
-		<description>Belt with an arming hook and a pouch for bolts.</description>
+		<description>Belt with an arming hook and a pouch for bolts. Specially made to suit the needs of a crossbowman, of a sturdy make reinforced with steel.</description>
 		<graphicData>
 			<texPath>Apparel/Accessories/TA_CrossbowmanBelt/TA_CrossbowmanBelt_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
