@@ -5,7 +5,7 @@
 	<ThingDef ParentName="TA_ApparelCarryGearBase"  MayRequireAnyOf="al9000.highmedieval,al9000.shiningarmor">
 		<defName>TA_ArrowBag</defName>
 		<label>arrow bag</label>
-		<description>.</description>
+		<description>A light fabric pouch for holding arrows on your person.</description>
 		<graphicData>
 			<texPath>Apparel/Accessories/TA_ArrowBag/TA_ArrowBag_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -33,7 +33,7 @@
 		</equippedStatOffsets>
 		<costStuffCount>30</costStuffCount>
 		<stuffCategories>
-			<li>Leathery</li>
+			<li>Fabric</li>
 		</stuffCategories>
 		<apparel>
 			<drawData>
